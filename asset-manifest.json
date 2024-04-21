@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my_hours/static/css/main.a93bd313.css",
-    "main.js": "/my_hours/static/js/main.e4182dd3.js",
+    "main.js": "/my_hours/static/js/main.de81f9e3.js",
     "static/media/incomeMoney.mp3": "/my_hours/static/media/incomeMoney.78588532859a8ac2fb9b.mp3",
     "index.html": "/my_hours/index.html",
     "main.a93bd313.css.map": "/my_hours/static/css/main.a93bd313.css.map",
-    "main.e4182dd3.js.map": "/my_hours/static/js/main.e4182dd3.js.map"
+    "main.de81f9e3.js.map": "/my_hours/static/js/main.de81f9e3.js.map"
   },
   "entrypoints": [
     "static/css/main.a93bd313.css",
-    "static/js/main.e4182dd3.js"
+    "static/js/main.de81f9e3.js"
   ]
 }
